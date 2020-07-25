@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "root-config": "https://github.com/react-microfrontends/root-config.git",
+    "shared-dependencies": "https://github.com/react-microfrontends/shared-dependencies.git",
+    "styleguide": "https://github.com/react-microfrontends/styleguide.git",
+    "navbar": "https://github.com/react-microfrontends/navbar.git",
+    "people": "https://github.com/react-microfrontends/people.git",
+    "planets": "https://github.com/react-microfrontends/planets.git",
+    "api": "https://github.com/react-microfrontends/api.git"
+  }
+}
